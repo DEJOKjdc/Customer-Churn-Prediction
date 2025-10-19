@@ -98,3 +98,6 @@ Deployed the final model using **Streamlit** for an interactive web dashboard.
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+# Sample website images
+![alt text](https://github.com/DEJOKjdc/Customer-Churn-Prediction/blob/main/a1.jpeg)
