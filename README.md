@@ -101,3 +101,5 @@ Deployed the final model using **Streamlit** for an interactive web dashboard.
 
 # Sample website images
 ![alt text](https://github.com/DEJOKjdc/Customer-Churn-Prediction/blob/main/a1.jpeg)
+![alt text](https://github.com/DEJOKjdc/Customer-Churn-Prediction/blob/main/a2.jpeg)
+![alt text](https://github.com/DEJOKjdc/Customer-Churn-Prediction/blob/main/a3.jpeg)
